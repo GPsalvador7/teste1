@@ -4,7 +4,7 @@
 -Gabriel Pedro Salvador de Mello
 
 
--15y
--jogador 7 e faixa 👑
--Sou estudante 
--Estou me desenvolvendo na linguagem JavaScript
+15y
+jogador 7 e faixa 👑
+Sou estudante 
+Estou me desenvolvendo na linguagem JavaScript
