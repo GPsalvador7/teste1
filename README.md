@@ -1,13 +1,13 @@
 ### Bem vindo ao meu perfil 💜
 
 
-Gabriel Pedro Salvador de Mello
+-Gabriel Pedro Salvador de Mello
 
 
-15y
+-15y
 
-jogador 7 e faixa 👑
+-jogador 7 e faixa 👑
 
-Sou estudante 
+-Sou estudante 
 
-Estou me desenvolvendo na linguagem JavaScript
+-Estou me desenvolvendo na linguagem JavaScript
